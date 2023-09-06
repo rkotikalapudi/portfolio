@@ -9,6 +9,8 @@ BTech in Biomedical Enginerring from Jawaharlal Nehru Technicial University (Jul
 #### Researcher @ Predictive NeuroImaging Laboratory, University Medicine Essen, Germany (Apr 2021 - Present)
 #### Neuroscientist @ Institute of Psychology, University of Bern, Switzerland (Apr 2019 - Mar 2021)
 #### Medical Scientist @ University Hospital Tuebingen, Germany (Jan 2015 - Feb 2019)
+#### Sr. Research Fellow @ NIMHANS, Bengaluru, India (Jan 2014 - Dec 2014)
+#### Jr. Research Fellow @ NIMHANS, Bengaluru, India (Jul 2013 - Dec 2013)
 
 ### Publications 
 #### Predictive modelling of pain sensitivity using brain information  
