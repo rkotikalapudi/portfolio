@@ -13,5 +13,6 @@ BTech in Biomedical Enginerring from Jawaharlal Nehru Technicial University (Jul
 ### Publications 
 #### Predictive modelling of pain sensitivity using brain information
 [Publication](https://journals.lww.com/pain/fulltext/9900/brain_morphology_predicts_individual_sensitivity.323.aspx)
-Developed a preditive model on multicenter brain imaging data for predictive individual's pain sensitivity. This model 
-serves as a Proof-of-Concept (POS) for brain morphology-based pain predictive models and finds its applications in healthcare towards accute and chronic pain treatments. To know more about the project, [click here].
+
+Developed a preditive model on multicenter brain imaging data for predicting individual's pain sensitivity. This model 
+serves as a Proof-of-Concept (POS) for brain morphology-based pain predictive models and finds its applications in healthcare towards accute and chronic pain treatments. To know more about the project, [click here](https://github.com/pni-lab/ctp-signature).
