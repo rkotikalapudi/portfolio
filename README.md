@@ -32,4 +32,4 @@ What is optimism bias? Why people in general are optimistic about achieving thei
 ![](/assets/img/OHBM2022_RK.jpg)  
 
 #### IBRO 2023, Granada, Spain  
-![](/assets/img/IBRO2023_RK.jpg)
+![](/assets/img/IBRO23_RK.jpg)
