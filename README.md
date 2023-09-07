@@ -24,5 +24,5 @@ serves as a Proof-of-Concept (POS) for brain morphology-based pain predictive mo
 [Link to the publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822990/)  
 
 What is optimism bias? Why people in general are optimistic about achieving their goals? Is it possible that there is a neuroimaging driven model that can explain variability in optimism bias at an individual behavioral level? We attempt to address these questions in our scientific article on optimism bias.
-
+![](/assets/img/41598_2022_26550_Fig3_HTML.png)
 
