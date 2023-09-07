@@ -14,8 +14,15 @@ BTech in Biomedical Enginerring from Jawaharlal Nehru Technicial University (Jul
 
 ### Publications 
 #### Predictive modelling of pain sensitivity using brain information  
+[Link to the publication](https://journals.lww.com/pain/fulltext/9900/brain_morphology_predicts_individual_sensitivity.323.aspx)  
 
-Developed a preditive model on [multicenter brain imaging data for predicting individual's pain sensitivity](https://journals.lww.com/pain/fulltext/9900/brain_morphology_predicts_individual_sensitivity.323.aspx)  
-. This model 
+Developed a preditive model on multicenter brain imaging data for predicting individual's pain sensitivity. This model 
 serves as a Proof-of-Concept (POS) for brain morphology-based pain predictive models and finds its applications in healthcare towards accute and chronic pain treatments. To know more about the project, [click here](https://github.com/pni-lab/ctp-signature).
 ![](/assets/img/main_fig.jpg)
+
+#### Brain MRI images can predict individual optimism bias: a psychological phenomenon
+[Link to the publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9822990/)  
+
+What is optimism bias? Why people in general are optimistic about achieving their goals? Is it possible that there is a neuroimaging driven model that can explain variability in optimism bias at an individual behavioral level? We attempt to address these questions in our scientific article on optimism bias.
+
+
