@@ -29,7 +29,7 @@ What is optimism bias? Why people in general are optimistic about achieving thei
 
 ### Selected attended conferences
 #### OHBM 2022, Glasgow, Scotland
-![](/assets/img/OHBM2022_RK)
+![](/assets/img/OHBM2022_RK.jpg)  
+
 #### IBRO 2023, Granada, Spain  
 ![](/assets/img/IBRO2023_RK.jpg)
----
