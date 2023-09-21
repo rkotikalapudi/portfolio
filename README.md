@@ -4,7 +4,7 @@
 - PhD in Medical Imaging from Eberhard Karls University of Tuebingen (Jan 2015-Jan 2019), Germany
 - MSc in Physics and Computing in Medicine and Biology from the University of Manchester (Sep 2010 - Sep 2011), England
 - BTech in Biomedical Enginerring from Jawaharlal Nehru Technicial University (July 2005 - July 2009), India.
----
+  
 ### Work Experience
 #### Researcher @ Predictive NeuroImaging Laboratory, University Medicine Essen, Germany (Apr 2021 - Present)
 #### Neuroscientist @ Institute of Psychology, University of Bern, Switzerland (Apr 2019 - Mar 2021)
@@ -13,6 +13,7 @@
 #### Jr. Research Fellow @ NIMHANS, Bengaluru, India (Jul 2013 - Dec 2013)
 ---
 ### Publications 
+To read my entire list of publications, please visit my [Google Scholar](https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao) page. Below are some selected works of mine with active collaborations:
 #### Predictive modelling of pain sensitivity using brain information  
 [Link to the publication](https://journals.lww.com/pain/fulltext/9900/brain_morphology_predicts_individual_sensitivity.323.aspx)   
 
