@@ -14,7 +14,7 @@ and mastery in data visualization, AI-predictive biomaker architectures.
 - Medical Scientist @ University Hospital Tuebingen, Germany (Jan 2015 - Feb 2019)
 - Sr. Research Fellow @ NIMHANS, Bengaluru, India (Jan 2014 - Dec 2014)
 - Jr. Research Fellow @ NIMHANS, Bengaluru, India (Jul 2013 - Dec 2013)
----
+
 ### Projects 
 To read my entire list of publications, please visit my [Google Scholar](https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao) page. Below are some selected works of mine with active collaborations:
 #### Predictive modelling of pain sensitivity using brain information  
@@ -34,6 +34,9 @@ What is optimism bias? Why people in general are optimistic about achieving thei
 ### Selected attended conferences
 #### IBRO 2023, Granada, Spain  
 ![](/assets/img/IBRO23_RK.jpg)
+
+#### Neuroimaging methods
+![Click here](https://rkotikalapudi.github.io/clusterDocs/) to know more regarding some in-house methods in neuroimaging.
 
 #### OHBM 2022, Glasgow, Scotland
 ![](/assets/img/OHBM2022_RK.jpg)  
