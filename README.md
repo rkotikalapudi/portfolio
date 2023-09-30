@@ -1,4 +1,7 @@
 # My Portfolio
+Doctorate in Neuroscience with a deep-seated expertise in the nexus of artificial intelligence, neuroimaging, 
+and biomedical instrumentation. Embodies a distinguished record of international work experience with collaborations, mentorship, 
+and mastery in data visualization, AI-predictive biomaker architectures.
 
 ### Education
 - PhD in Medical Imaging from Eberhard Karls University of Tuebingen (Jan 2015-Jan 2019), Germany
@@ -12,7 +15,7 @@
 #### Sr. Research Fellow @ NIMHANS, Bengaluru, India (Jan 2014 - Dec 2014)
 #### Jr. Research Fellow @ NIMHANS, Bengaluru, India (Jul 2013 - Dec 2013)
 ---
-### Publications 
+### Projects 
 To read my entire list of publications, please visit my [Google Scholar](https://scholar.google.de/citations?user=J4IiWQMAAAAJ&hl=en&oi=ao) page. Below are some selected works of mine with active collaborations:
 #### Predictive modelling of pain sensitivity using brain information  
 [Link to the publication](https://journals.lww.com/pain/fulltext/9900/brain_morphology_predicts_individual_sensitivity.323.aspx)   
